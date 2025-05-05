@@ -18,7 +18,7 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://pypi.org/project/git-sha2-tool/"
-Repository = "https://github.com/your-username/git-sha2-tool"
+Repository = "https://github.com/vinayakjoshi6803/git-sha2-tool"
 
 [project.scripts]
 git-sha2 = "git_sha2.cli:main"
